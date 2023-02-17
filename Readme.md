@@ -1,4 +1,6 @@
-email validation in python using string functions :::
+# Email Validator
+
+## email validation in python using string functions :::
 1.) all letters are small not uppercase 
 2.) include only one "@" sign 
 3.) should start with alphabet 
